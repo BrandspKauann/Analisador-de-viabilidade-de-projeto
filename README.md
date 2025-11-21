@@ -57,14 +57,3 @@ Matriz de Confusão:
 [[2 0]
  [0 3]]
 
----
---- Coeficientes do Modelo (Regressão Logística) ---
-
-# Sinal Negativo: DIMINUI a probabilidade de Viabilidade
-# Sinal Positivo: AUMENTA a probabilidade de Viabilidade
-
-Taxa_Juros_Anual           -1.077336    # Maior Peso Negativo
-Prazo_Retorno_Anos         -0.238914
-Risco                      -0.229658
-Tamanho_Equipe              0.046976    # Único Fator Positivo
-Investimento_Inicial_Mil   -0.000383
